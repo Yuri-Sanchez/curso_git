@@ -2,4 +2,4 @@ Testando
 Uma 
 Atualização
 2
-teste do commit -a -m
+teste do commi -m 
