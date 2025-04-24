@@ -1,5 +1,2 @@
 Testando
-Uma 
-Atualização
-2
-teste do commi -m 
+git merge
