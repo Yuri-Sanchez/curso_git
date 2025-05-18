@@ -1,2 +1,8 @@
 Testando
-git merge
+Uma 
+Atualização 
+2 
+enviando 
+a funcionalidade 
+X
+enviando a funcionalidade b
